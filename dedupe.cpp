@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include "./rtree.cpp"
+#include "./rtree.h"
 using namespace std;
 
 int main() {
